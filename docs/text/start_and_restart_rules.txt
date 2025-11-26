@@ -1,0 +1,9 @@
+Start and Restart Rules (Soccer)
+
+1. Kick-Off: Used to start the match, start the second half, and restart after goals.
+2. Dropped Ball: Used when the referee stops play and no other restart applies.
+3. Throw-In: Awarded when the ball crosses the touchline. Taken by the team that did not touch it last.
+4. Goal Kick: Awarded when the attacking team last touches the ball before it crosses the goal line.
+5. Corner Kick: Awarded when the defending team last touches the ball before it crosses the goal line.
+6. Free Kicks: Awarded after fouls. They can be direct or indirect depending on the offense.
+7. Penalty Kick: Awarded for certain fouls inside the penalty area.

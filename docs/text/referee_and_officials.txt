@@ -1,0 +1,8 @@
+Referees and Officials (Soccer)
+
+1. Referee Role: The referee enforces the Laws of the Game and makes final decisions. The referee has the power to show yellow or red cards.
+2. Assistant Referees: Help indicate offside, out-of-play decisions, and fouls.
+3. Fourth Official: Manages substitutions, extra time displays, and technical area behavior.
+4. VAR: Video Assistant Referees may assist with major decisions like goals and penalties. GLT systems may be used to verify whether a goal has been scored to support the referee’s decision.
+5. Authority: Referees oversee player equipment, injuries, and match safety.
+6. Signals: Referees and assistants use approved hand signals to communicate decisions.

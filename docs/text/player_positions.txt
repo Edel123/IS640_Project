@@ -1,0 +1,10 @@
+Player Positions
+
+1. Goalkeeper: Protects the goal and is the only player allowed to use hands inside the penalty area.
+2. Defenders: Players who protect their team’s goal by blocking attacks and clearing the ball.
+3. Fullbacks: Wide defenders who cover the sides of the field and support both defense and attack.
+4. Center Backs: Defenders positioned in the middle who stop opposing forwards.
+5. Midfielders: Players who connect defense and attack, often controlling possession.
+6. Wingers: Wide midfielders who create scoring chances and support attacks from the sides.
+7. Forwards: Main attackers responsible for scoring goals.
+8. Striker: The central forward who focuses on finishing scoring opportunities.

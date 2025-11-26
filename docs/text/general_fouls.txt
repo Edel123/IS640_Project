@@ -1,0 +1,9 @@
+General Fouls (Soccer)
+
+1. Direct Free Kick Fouls: Include kicking, tripping, pushing, striking, or jumping at an opponent.
+2. Careless Play: When a player shows lack of caution in a challenge; results in a foul.
+3. Reckless Play: A more dangerous challenge that results in a caution (yellow card).
+4. Excessive Force: A challenge that endangers safety and results in a sending-off (red card).
+5. Handball: Called when a player deliberately handles the ball, except for the goalkeeper in their penalty area.
+6. Physical Contact: Holding, impeding with contact, or charging may be penalized.
+

@@ -1,0 +1,8 @@
+Throw-Ins, Goal Kicks, and Corner Kicks (Soccer)
+
+1. Throw-In: Awarded when the ball fully crosses the touchline. Taken with both hands from behind the head.
+2. Opponent Distance: Opponents must stay the required distance until the ball is in play.
+3. Goal Kick: Awarded when the attacking team last touches the ball before it crosses the goal line.
+4. Corner Kick: Awarded when the defending team last touches the ball before it crosses the goal line.
+5. Scoring: A goal can be scored directly from a corner kick but not from a throw-in.
+6. Procedure: Each restart must be taken from the proper location.

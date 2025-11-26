@@ -1,0 +1,10 @@
+General Game Overview (Soccer Rules)
+
+1. Match Length: A match has two equal halves, with added time for delays. The amount of time added at the end of each half is decided by the referee to make up for injuries, substitutions, delays, and other stoppages. This ensures that all lost time is accounted for.
+2. Halftime Break: Players get a short interval between halves based on competition rules, not exceeding 15 minutes.
+3. Kick-Off: The game starts with a kick-off at the center mark and restarts this way after goals. All players must remain in their own half until the ball is played.
+4. Restarts: Free kicks, goal kicks, corner kicks, throw-ins, and dropped balls restart play.
+5. Ball In Play: The ball stays in play unless it fully crosses a boundary line or the referee stops play.
+6. Ball Out of Play: When the ball leaves the field or when the referee stops play, play restarts based on who touched it last.
+7. Scoring: A goal is scored when the entire ball crosses the goal line between the posts and under the crossbar.
+8. Winning the Match: The team with more goals wins. If tied, the match ends in a draw unless rules require a winner. In those cases, extra time or penalty kicks may be used to decide the outcome.

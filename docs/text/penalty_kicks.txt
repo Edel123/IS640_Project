@@ -1,0 +1,8 @@
+Penalty Kicks (Soccer)
+
+1. Awarded When: A direct free kick offense occurs inside the penalty area.
+2. Kick Location: The ball is placed on the penalty mark and must be kicked forward.
+3. Goalkeeper Rules: The goalkeeper must stay on the goal line until the kick is taken.
+4. Player Rules: All other players must remain outside the penalty area and behind the ball.
+5. Scoring: A goal can be scored directly from a penalty kick.
+6. Retakes: If players violate rules during the kick, the penalty may be retaken.

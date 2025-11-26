@@ -1,0 +1,8 @@
+Scoring Rules (Soccer)
+
+1. Goal Definition: A goal is scored when the whole ball crosses the goal line between the posts and under the crossbar.
+2. Valid Goals: A goal counts only if no rule violation was committed by the scoring team.
+3. Own Goals: If a team accidentally sends the ball into its own net, the opposing team is awarded the goal.
+4. No Goal Situations: If the ball is kicked into the goal directly from certain restarts (like a throw-in), it does not count.
+5. Stoppages: If the referee stops play before the ball crosses the line, no goal can be awarded.
+6. Tie Games: If both teams score the same number of goals, the match ends in a draw unless competition rules require tiebreakers.
