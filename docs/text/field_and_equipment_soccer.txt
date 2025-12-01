@@ -5,8 +5,23 @@ Field and Equipment (Soccer Rules)
 3. Center Area: A center mark and circle indicate where the game begins with a kick-off. All players must stay on their half until the ball is played.
 4. Goal Area: In front of each goal is a small box used for specific restarts. A larger penalty area surrounds it and is used for goalkeeper privileges and penalty kick situations.
 5. Corner Area: Each corner of the field includes a small arc where corner kicks are taken after the defending team last touches the ball out of play.
-6. Flagposts: Flags mark the four corners of the field. They must be tall, safe, and placed outside the playing area.
+6. Flagposts: Flags mark the four corners of the field. Flagposts must be tall, safe, and placed just outside the playing area.
 7. Technical Area: Teams sit in a designated area on the sideline. Only authorized coaches, substitutes, and staff may occupy this space, and they must behave responsibly.
 8. Goals: A goal has two upright posts connected by a crossbar. Goals must be secure, safe, and identical for both teams. Nets may be used to show when the ball enters the goal.
-9. Player Equipment: All players must wear a jersey, shorts, socks, shin guards, and proper footwear. Shin guards must be covered, and jewelry is not allowed for safety reasons.
-10. The Ball: The ball must be round, safe to use, and the correct size for the match level. If the ball becomes damaged during the match, the referee stops play and replaces it.
+9. The Ball: The ball must be round, made of safe material, and the correct size and weight for the match level.
+
+Player Equipment
+
+1. Required Outfield Player Equipment: All outfield players must wear the following items:
+   - A jersey or shirt with sleeves.
+   - Shorts.
+   - Socks that fully cover the shin guards.
+   - Shin guards made of a suitable material that provide reasonable protection and fit completely under the socks.
+   - Footwear appropriate for the playing surface (cleats or turf shoes depending on field conditions).
+   All jewelry (necklaces, rings, bracelets, earrings, or metal items) is not allowed for safety reasons. Tape cannot be used to cover jewelry.
+
+2. Required Goalkeeper Equipment: Goalkeepers must wear all the same required equipment as outfield players (jersey, shorts, socks, shin guards, and footwear). In addition:
+   - Goalkeepers must wear colors that clearly distinguish them from all other players and the referees.
+   - Goalkeepers may wear gloves for grip and hand protection.
+   - Goalkeepers may wear approved padded equipment such as soft headgear, padded shorts, or arm protection as long as it is safe for all players.
+   - Goalkeepers may wear long pants or goalkeeper-specific trousers, unlike outfield players.

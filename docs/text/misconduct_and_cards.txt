@@ -1,8 +1,15 @@
 Misconduct and Cards (Soccer)
 
-1. Yellow Card: Given for dissent, delaying restarts, reckless fouls, or unsporting behavior.
-2. Red Card: Given for serious foul play, violent conduct, denying a goal with a handball, or receiving a second yellow card.
-3. Player Removal: A sent-off player must leave the field and cannot return.
-4. Team Officials: Coaches or staff can also receive cards for irresponsible behavior.
-5. Celebrations: Excessive or unsafe celebrations may result in a caution.
-6. Restart After Card: Play restarts based on the original reason for the whistle unless otherwise required.
+1. Direct Free Kick Fouls: A direct free kick is awarded when a player commits a physical foul against an opponent. These fouls include kicking or attempting to kick someone, tripping or trying to trip an opponent, charging an opponent with force, pushing or holding them, striking or attempting to strike them, jumping at them in a dangerous way, or tackling an opponent before touching the ball. A deliberate handball by any player other than the goalkeeper inside their own penalty area is also a direct free kick offense.
+2. Careless, Reckless, and Excessive Force:
+These terms describe the severity of a foul:
+Careless: The player shows poor judgment or lack of attention when challenging for the ball. It is a foul but does not require a card.
+Reckless: The player acts with disregard for the safety of the opponent. A reckless challenge always results in a yellow card.
+Excessive Force: The player uses more force than necessary or endangers the safety of the opponent. This results in a red card for serious foul play.
+3. Indirect Free Kick Offenses: An indirect free kick is awarded for non-contact offenses, such as playing in a dangerous manner (without making contact), preventing the goalkeeper from releasing the ball, blocking or delaying a restart, impeding an opponent without physical contact, or verbally distracting an opponent. Offensive, insulting, or abusive language may also result in an indirect free kick unless severe enough for a red card.
+4. Yellow Card (Caution): A yellow card is issued for misconduct such as reckless fouls, unsporting behavior (including attempts to deceive the referee), dissent through words or actions, persistent infringement of the Laws, delaying the restart of play, or failing to give the required distance at free kicks, corner kicks, and throw-ins.
+5. Celebration Misconduct: A player must receive a yellow card if their celebration is excessive, unsafe, or wastes time. This includes removing their shirt, pulling their jersey over their head, covering their face with clothing, wearing a mask or prop, climbing onto fences or advertising boards, or causing a long delay before play can restart.
+6. Red Card (Sending Off): A red card is issued for serious foul play (using excessive force), violent conduct (attempting to injure someone), denying an obvious goal-scoring opportunity by foul or deliberate handball (except for a goalkeeper inside their penalty area), using offensive, insulting, or abusive language or gestures, or receiving a second yellow card in the same match.
+7. Player Removal: A player who is shown a red card must leave the field of play, the technical area, and the surroundings immediately. They may not return or be replaced, and their team must continue with one fewer player for the remainder of the match.
+8. Team Officials: Coaches, assistants, and other team staff may also receive yellow or red cards for irresponsible behavior, such as dissent, delaying restarts, or unsporting conduct. If the referee cannot identify which team official committed the offense, the senior coach is shown the card by default.
+9. Restart After Misconduct: Showing a yellow or red card does not change the restart. The match always restarts according to the original reason for the whistle—direct free kick, indirect free kick, penalty kick, goal kick, corner kick, or throw-in.

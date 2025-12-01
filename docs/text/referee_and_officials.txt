@@ -6,3 +6,12 @@ Referees and Officials (Soccer)
 4. VAR: Video Assistant Referees may assist with major decisions like goals and penalties. GLT systems may be used to verify whether a goal has been scored to support the referee’s decision.
 5. Authority: Referees oversee player equipment, injuries, and match safety.
 6. Signals: Referees and assistants use approved hand signals to communicate decisions.
+7. Assistant Referees: Two assistant referees help the main referee by signaling when the ball goes out of play, identifying offside offenses, and assisting with fouls they can see more clearly.
+8. Fourth Official: The fourth official manages substitutions, monitors the technical areas, checks player equipment, and displays the added time at the end of each half.
+9. Video Assistant Referee (VAR): The VAR reviews major decisions such as goals, penalty kicks, direct red cards, and mistaken identity. The VAR can recommend a review to the referee.
+10. Assistant VAR (AVAR): The AVAR supports the VAR by checking replays, managing communication, recording decision details, and ensuring accuracy during video reviews.
+11. Additional Assistant Referees (when used): These referees stand near the goals to help judge goal-line incidents, fouls inside the penalty area, and other situations close to the goal.
+12. Other officials: Assistant referees, the fourth official, the video assistant referee (VAR), the assistant VAR (AVAR), and additional assistant referees.”
+
+
+
