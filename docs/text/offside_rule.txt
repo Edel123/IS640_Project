@@ -1,8 +1,11 @@
 Offside Rule (Soccer)
 
-1. Offside Position: A player is offside if they are nearer to the opponent’s goal than both the ball and the second-last defender.
-2. Not a Violation: Being in an offside position alone is not a foul. A player is not in an offside position if level with the second-last opponent or last two opponents.
-3. Offside Offense: A player is penalized if they play the ball or interfere with an opponent from an offside position. • A player is offside if any part of the head, body or feet is in the opponents’ half (excluding the halfway line).
-4. No Offside Plays: Offside is not called on goal kicks, corner kicks, or throw-ins.
-5. Purpose: The rule prevents attackers from gaining unfair positioning advantages.
-6. Restart: An indirect free kick is awarded to the defending team when offside occurs.
+Offside Position:
+1. A player is in an offside position if any part of their head, body, or feet is nearer to the opponent’s goal line than both the ball and the second-last defender. Arms and hands are not considered. A player cannot be offside on the halfway line.
+2. Not an Offense by Itself: Being in an offside position is not a foul. A player is not offside if they are level with the second-last defender, or level with the last two defenders.
+3. Offside Offense: A player commits an offside offense only if, at the moment a teammate plays the ball, they become involved in active play by:
+playing or touching the ball, interfering with an opponent’s ability to play the ball, or gaining an advantage from their offside position (such as playing a rebound or deflection).
+4. No Offside on Certain Restarts:
+Offside cannot be called directly from a goal kick, corner kick, or throw-in. A player may freely receive the ball from these restarts without penalty.
+5. Purpose of the Rule: The offside rule prevents attacking players from positioning themselves unfairly close to the opponent’s goal to gain an advantage.
+6.Restart After Offside: When an offside offense occurs, the defending team is awarded an indirect free kick from the spot where the offside offense took place.
