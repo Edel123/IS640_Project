@@ -1,9 +1,160 @@
 {
   "metrics": {
-    "total_questions": 0,
-    "successful_retrievals": 0,
-    "hit_rate": 0,
-    "average_latency": 0.0
+    "total_questions": 10,
+    "successful_retrievals": 10,
+    "hit_rate": 1.0,
+    "average_latency": 30.1159476518631
   },
-  "results": []
+  "results": [
+    {
+      "question": "When does the referee call an offside offense?",
+      "answer": " The referee calls an offside offense when a player is in an offside position (nearer to the opponent's goal than both the ball and the second-last defender), plays the ball, or interferes with an opponent from that offside position.",
+      "sources": [
+        "offside_rule.txt",
+        "offside_rule.txt",
+        "offside_rule.txt"
+      ],
+      "contexts": [
+        "player is offside if any part of the head, body or feet is in the opponents\u2019 half (excluding the halfway line).\n4. No Offside Plays: Offside is not called on goal kicks, corner kicks, or throw-ins.\n5.",
+        "Offside Rule (Soccer)\n\n1. Offside Position: A player is offside if they are nearer to the opponent\u2019s goal than both the ball and the second-last defender.\n2. Not a Violation: Being in an offside posit",
+        "nt or last two opponents.\n3. Offside Offense: A player is penalized if they play the ball or interfere with an opponent from an offside position. \u2022\u2002A player is offside if any part of the head, body or"
+      ],
+      "time": 38.75260400772095
+    },
+    {
+      "question": "What are the main responsibilities of a soccer referee?",
+      "answer": " The main responsibilities of a soccer referee include enforcing the Laws of the Game, making final decisions, showing yellow or red cards for misconduct, overseeing player equipment, injuries, and match safety, signaling various events during the game, and ensuring that the game is played fairly and safely. Assistant referees help with recording decision details, ensuring accuracy during video reviews, and judging goal-line incidents and fouls inside the penalty area when additional assistant referees are used.",
+      "sources": [
+        "referee_and_officials.txt",
+        "referee_and_officials.txt",
+        "referee_and_officials.txt"
+      ],
+      "contexts": [
+        "Referees and Officials (Soccer)\n\n1. Referee Role: The referee enforces the Laws of the Game and makes final decisions. The referee has the power to show yellow or red cards.\n2. Assistant Referees: Hel",
+        "recording decision details, and ensuring accuracy during video reviews.\n11. Additional Assistant Referees (when used): These referees stand near the goals to help judge goal-line incidents, fouls insi",
+        "may be used to verify whether a goal has been scored to support the referee\u2019s decision.\n5. Authority: Referees oversee player equipment, injuries, and match safety.\n6. Signals: Referees and assistants"
+      ],
+      "time": 39.71842098236084
+    },
+    {
+      "question": "Who are the officials involved in a soccer match besides the main referee?",
+      "answer": " The officials involved in a soccer match besides the main referee include assistant referees, the fourth official, the video assistant referee (VAR), and additional assistant referees. These officials help to judge goal-line incidents, fouls inside the penalty area, and other situations close to the goal.",
+      "sources": [
+        "referee_and_officials.txt",
+        "referee_and_officials.txt",
+        "referee_and_officials.txt"
+      ],
+      "contexts": [
+        "Referees and Officials (Soccer)\n\n1. Referee Role: The referee enforces the Laws of the Game and makes final decisions. The referee has the power to show yellow or red cards.\n2. Assistant Referees: Hel",
+        ", the fourth official, the video assistant referee (VAR), the assistant VAR (AVAR), and additional assistant referees.\u201d\n\n\n\n",
+        "oals to help judge goal-line incidents, fouls inside the penalty area, and other situations close to the goal.\n12. Other officials: Assistant referees, the fourth official, the video assistant referee"
+      ],
+      "time": 24.224732160568237
+    },
+    {
+      "question": "If a player scores a goal directly from a throw-in, does the goal count?",
+      "answer": " No, the goal does not count because according to rule 5 of soccer, a goal can be scored directly from a corner kick but not from a throw-in.",
+      "sources": [
+        "scoring_rules.txt",
+        "scoring_rules.txt",
+        "throwins_goal_kicks_corners.txt"
+      ],
+      "contexts": [
+        " net, the opposing team is awarded the goal.\n4. No Goal Situations: If the ball is kicked into the goal directly from certain restarts (like a throw-in), it does not count.\n5. Stoppages: If the refere",
+        "lid Goals: A goal counts only if no rule violation was committed by the scoring team.\n3. Own Goals: If a team accidentally sends the ball into its own net, the opposing team is awarded the goal.\n4. No",
+        "e.\n5. Scoring: A goal can be scored directly from a corner kick but not from a throw-in.\n6. Procedure: Each restart must be taken from the proper location."
+      ],
+      "time": 28.98123812675476
+    },
+    {
+      "question": "How many players are on the field for each team during a soccer match?",
+      "answer": " Each team has eleven players on the field during a soccer match. This includes one goalkeeper.",
+      "sources": [
+        "general_rules_soccer.txt",
+        "general_rules_soccer.txt",
+        "field_and_equipment_soccer.txt"
+      ],
+      "contexts": [
+        "may be used to decide the outcome.\n____\nNumber of Players\n\n1. Each team has eleven players on the field during a match. One of these players must be the goalkeeper.\n2. A match cannot start or continue",
+        "he goalkeeper.\n2. A match cannot start or continue if a team has fewer than seven players.\n\n",
+        "of the field. They must be tall, safe, and placed outside the playing area.\n7. Technical Area: Teams sit in a designated area on the sideline. Only authorized coaches, substitutes, and staff may occup"
+      ],
+      "time": 17.529403924942017
+    },
+    {
+      "question": "Who is the only player allowed to use their hands during a soccer match?",
+      "answer": " The Goalkeeper is the only player allowed to use their hands during a soccer match, inside the penalty area.",
+      "sources": [
+        "field_and_equipment_soccer.txt",
+        "player_positions.txt",
+        "player_positions.txt"
+      ],
+      "contexts": [
+        " them from all other players and the referees.\n   - Goalkeepers may wear gloves for grip and hand protection.\n   - Goalkeepers may wear approved padded equipment such as soft headgear, padded shorts, ",
+        "Player Positions\n\n1. Goalkeeper: Protects the goal and is the only player allowed to use hands inside the penalty area.\n2. Defenders: Players who protect their team\u2019s goal by blocking attacks and clea",
+        "Player Positions\n\n1. Goalkeeper: Protects the goal and is the only player allowed to use hands inside the penalty area.\n2. Defenders: Players who protect their team\u2019s goal by blocking attacks and clea"
+      ],
+      "time": 20.138955116271973
+    },
+    {
+      "question": "What is the purpose of the offside rule in soccer?",
+      "answer": " The offside rule in soccer exists to prevent a player from having an unfair advantage by being closer to the opponent's goal than the second-last defender and the ball, without there being a teammate between them. This encourages more balanced play and fairer game dynamics, as it discourages players from just camping near the opponent's goal in anticipation of a pass. The indirect free kick awarded to the defending team when offside occurs further emphasizes this intent by giving the opposing team an opportunity to regain possession and potentially counter-attack.",
+      "sources": [
+        "offside_rule.txt",
+        "offside_rule.txt",
+        "offside_rule.txt"
+      ],
+      "contexts": [
+        "Offside Rule (Soccer)\n\n1. Offside Position: A player is offside if they are nearer to the opponent\u2019s goal than both the ball and the second-last defender.\n2. Not a Violation: Being in an offside posit",
+        "player is offside if any part of the head, body or feet is in the opponents\u2019 half (excluding the halfway line).\n4. No Offside Plays: Offside is not called on goal kicks, corner kicks, or throw-ins.\n5.",
+        "irect free kick is awarded to the defending team when offside occurs."
+      ],
+      "time": 35.45876717567444
+    },
+    {
+      "question": "What are the required equipment for players in a soccer match?",
+      "answer": " In a soccer match, the required equipment for players includes:\n\n1. A jersey\n2. Shorts\n3. Socks\n4. Shin guards (covered)\n5. Proper footwear\n6. The ball must be round, made of safe material, and the correct size and weight for the match level.\n7. Goals must be secure, safe, and identical for both teams. Nets may be used to show when the ball enters the goal.\n8. It is not allowed for players to wear jewelry for safety reasons.",
+      "sources": [
+        "field_and_equipment_soccer.txt",
+        "field_and_equipment_soccer.txt",
+        "field_and_equipment_soccer.txt"
+      ],
+      "contexts": [
+        "he ball must be round, made of safe material, and the correct size and weight for the match level.\n\nPlayer Equipment\n\n1. Required Outfield Player Equipment: All outfield players must wear the followin",
+        "a crossbar. Goals must be secure, safe, and identical for both teams. Nets may be used to show when the ball enters the goal.\n9. Player Equipment: All players must wear a jersey, shorts, socks, shin g",
+        " players must wear a jersey, shorts, socks, shin guards, and proper footwear. Shin guards must be covered, and jewelry is not allowed for safety reasons.\n10. The Ball: The ball must be round, safe to "
+      ],
+      "time": 38.81474685668945
+    },
+    {
+      "question": "What is the purpose of the offside rule?",
+      "answer": " The purpose of the offside rule in soccer is to prevent a team from exploiting numbers-based advantages, particularly after the opponents have lost possession of the ball. By forbidding players from being in an offside position until the ball has been played to them by a teammate who last touched it outside the opposing half, the rule discourages rapid forward movements and promotes fair play by restricting opportunities for uncontested shots on goal.",
+      "sources": [
+        "offside_rule.txt",
+        "offside_rule.txt",
+        "offside_rule.txt"
+      ],
+      "contexts": [
+        "Offside Rule (Soccer)\n\n1. Offside Position: A player is offside if they are nearer to the opponent\u2019s goal than both the ball and the second-last defender.\n2. Not a Violation: Being in an offside posit",
+        "player is offside if any part of the head, body or feet is in the opponents\u2019 half (excluding the halfway line).\n4. No Offside Plays: Offside is not called on goal kicks, corner kicks, or throw-ins.\n5.",
+        "nt or last two opponents.\n3. Offside Offense: A player is penalized if they play the ball or interfere with an opponent from an offside position. \u2022\u2002A player is offside if any part of the head, body or"
+      ],
+      "time": 33.815362215042114
+    },
+    {
+      "question": "If a player receives a second yellow card, what happens next",
+      "answer": " The player will be given a red card, resulting in their removal from the game and not being able to return for the remainder of the match.",
+      "sources": [
+        "misconduct_and_cards.txt",
+        "misconduct_and_cards.txt",
+        "referee_and_officials.txt"
+      ],
+      "contexts": [
+        "Misconduct and Cards (Soccer)\n\n1. Yellow Card: Given for dissent, delaying restarts, reckless fouls, or unsporting behavior.\n2. Red Card: Given for serious foul play, violent conduct, denying a goal w",
+        "rious foul play, violent conduct, denying a goal with a handball, or receiving a second yellow card.\n3. Player Removal: A sent-off player must leave the field and cannot return.\n4. Team Officials: Coa",
+        "ow yellow or red cards.\n2. Assistant Referees: Help indicate offside, out-of-play decisions, and fouls.\n3. Fourth Official: Manages substitutions, extra time displays, and technical area behavior.\n4. "
+      ],
+      "time": 23.7252459526062
+    }
+  ]
 }
