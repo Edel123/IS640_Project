@@ -1,6 +1,7 @@
-List of all team members and contributions
+Edel Martinez Santiago: TODO #1: Document Loading Function, TODO #5: Create Test Dataset, TODO #7: Run Complete Evaluation
 
-Edel Martinez: TODO #1: Document Loading Function, TODO #5: Create Test Dataset, TODO #7: Run Complete Evalutaion
 Lac Ngo: TODO #4: RAG Query Function, TODO #6: Calculate Evaluation Metrics
+
 Jennifer Palancarez-Luna: TODO #2: Text Chunking Functions, TODO #3: Process All Documents Into Chunks
+
 All Members: Report & Presentation Slides
